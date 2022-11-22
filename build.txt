@@ -1,0 +1,2 @@
+g++ -Wno-c++11-extensions -g -o tiles -I. designer.cpp parquet.cpp strip.cpp main.cpp
+
